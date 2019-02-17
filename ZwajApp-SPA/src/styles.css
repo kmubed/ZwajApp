@@ -1,0 +1,8 @@
+/* You can add global styles to this file, and also import other style files */
+@import "~bootstrap-v4-rtl/dist/css/bootstrap-rtl.css";
+@import "~font-awesome/css/font-awesome.min.css";
+/* @import url(https://arbfonts.com//wp-content/fonts/unlimited-free-arabic-fonts//Droid.Arabic.Kufi_DownloadSoftware.iR_.ttf); */
+@font-face {font-family: "ketab";src: url("./assets/fonts/ketab.ttf");}
+@font-face {font-family: "Droid.Arabic.Kufi";src: url("./assets/fonts/Droid.Arabic.Kufi.ttf");}
+@font-face {font-family: "ToyorAljanah";src: url("./assets/fonts/ToyorAljanah-Regular.otf");}
+@font-face {font-family: "JF Flat";src: url("./assets/fonts/JF-Flat-Regular.ttf");}
