@@ -1,0 +1,14 @@
+C:\Users\khaled\Desktop\CoreLearning\Zwaj\ZwajApp.API\bin\Debug\netcoreapp2.1\ZwajApp.API.deps.json
+C:\Users\khaled\Desktop\CoreLearning\Zwaj\ZwajApp.API\bin\Debug\netcoreapp2.1\ZwajApp.API.runtimeconfig.json
+C:\Users\khaled\Desktop\CoreLearning\Zwaj\ZwajApp.API\bin\Debug\netcoreapp2.1\ZwajApp.API.runtimeconfig.dev.json
+C:\Users\khaled\Desktop\CoreLearning\Zwaj\ZwajApp.API\bin\Debug\netcoreapp2.1\ZwajApp.API.dll
+C:\Users\khaled\Desktop\CoreLearning\Zwaj\ZwajApp.API\bin\Debug\netcoreapp2.1\ZwajApp.API.pdb
+C:\Users\khaled\Desktop\CoreLearning\Zwaj\ZwajApp.API\obj\Debug\netcoreapp2.1\ZwajApp.API.csprojAssemblyReference.cache
+C:\Users\khaled\Desktop\CoreLearning\Zwaj\ZwajApp.API\obj\Debug\netcoreapp2.1\ZwajApp.API.csproj.CoreCompileInputs.cache
+C:\Users\khaled\Desktop\CoreLearning\Zwaj\ZwajApp.API\obj\Debug\netcoreapp2.1\ZwajApp.API.RazorAssemblyInfo.cache
+C:\Users\khaled\Desktop\CoreLearning\Zwaj\ZwajApp.API\obj\Debug\netcoreapp2.1\ZwajApp.API.RazorAssemblyInfo.cs
+C:\Users\khaled\Desktop\CoreLearning\Zwaj\ZwajApp.API\obj\Debug\netcoreapp2.1\ZwajApp.API.AssemblyInfoInputs.cache
+C:\Users\khaled\Desktop\CoreLearning\Zwaj\ZwajApp.API\obj\Debug\netcoreapp2.1\ZwajApp.API.AssemblyInfo.cs
+C:\Users\khaled\Desktop\CoreLearning\Zwaj\ZwajApp.API\obj\Debug\netcoreapp2.1\ZwajApp.API.RazorTargetAssemblyInfo.cache
+C:\Users\khaled\Desktop\CoreLearning\Zwaj\ZwajApp.API\obj\Debug\netcoreapp2.1\ZwajApp.API.dll
+C:\Users\khaled\Desktop\CoreLearning\Zwaj\ZwajApp.API\obj\Debug\netcoreapp2.1\ZwajApp.API.pdb
