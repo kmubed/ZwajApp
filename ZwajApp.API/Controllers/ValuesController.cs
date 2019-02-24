@@ -22,7 +22,8 @@ namespace ZwajApp.API.Controllers
             _context = context;
         }
         // GET api/values
-        // GET http://localhost:5000/api/values/GetValues
+        // GET http://localhost:5000/api/values
+        [AllowAnonymous]
         [HttpGet]
         public async Task<IActionResult> GetValues()
         {
