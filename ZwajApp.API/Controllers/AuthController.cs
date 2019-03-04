@@ -42,6 +42,9 @@ namespace ZwajApp.API.Controllers
         [HttpPost("login")]
         public async Task<IActionResult> Login(UserForLoginDto userForLoginDto)
         {
+            // throw new Exception("Api says Nooo");
+
+            try{
             var userFromRepo = await _repo.Login(userForLoginDto.username.ToLower(), userForLoginDto.password);
             // اذا لم يكن موجود فيقوم بارجاع ليس له صلاحية بالدخول
             if (userFromRepo == null) return Unauthorized();
@@ -62,6 +65,12 @@ namespace ZwajApp.API.Controllers
             return Ok(new {
                 token=tokenHandler.WriteToken(token)
             });
+
+            
+            }catch
+            {
+                return StatusCode(500,"Api is very tired");
+            }
 
         }
     }
